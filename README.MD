@@ -5,7 +5,7 @@ with windown you need install python v3.9
 
 Then you must to download this repo \
 
-```git clone https://github.com/Moclaw/remove_private_room_rocket_chat.git```
+```git clone https://github.com/Moclaw/remove_private_room_rocket_chat.git``` \
 
 Step 1: \
 ```cd remove_private_room_rocket_chat``` \
@@ -16,7 +16,7 @@ with macos or linux: \
 ```pip3 install -r requirements.txt``` \
 
 Command: \
-with windown
+with windown \
 ```py main.py -d "domain" -u "your user" -p "your password"``` \
 
 MacOs or linux \
